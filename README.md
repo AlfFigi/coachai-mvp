@@ -1,6 +1,6 @@
 # CoachAI — AI Real-Time Coach for HSC Enterprise Computing
 
-An AI that marks HSC short answers against the **official NESA marking guidelines**,
+An AI that primarily marks HSC short answers against **official NESA marking guidelines**,
 with confidence levels and teacher-in-the-loop review.
 
 - **Concept demo (playable):** open the homepage of this site, or `demo/index.html`
